@@ -15,7 +15,7 @@
   <img src="Scan/Scan.png">
 </p>
 
-```Download```: https://github.com/0xPh0enix/njCrypter/releases
+```Download```: https://github.com/ghostAPT/njCrypter/releases
 
 ```How to make it FUD?```: 
 
